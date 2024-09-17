@@ -41,7 +41,6 @@ To be updated once the code is organized and released.
 
 @article{AdaMaskNet,
   title={AdaMaskNet: Enhancing Activity Recognition in Sensor Data with Adaptive Multi-scale Masked Kernels},
-  author={Jiamei Tang, MengKun Li, and Chao Dong},
   journal={Journal Name},
   year={2024},
   url={https://github.com/Catherine618/AdaMaskNet}
@@ -51,10 +50,3 @@ To be updated once the code is organized and released.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-**Contact**
-
-For questions or discussions, please contact:
-
-Jiamei Tang
-Email: tangjiamei@szpu.edu.com
