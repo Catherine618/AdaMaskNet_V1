@@ -13,11 +13,13 @@ To address these issues, we propose **AdaMaskNet**, a novel deep learning framew
 These modules enable coarse-to-fine feature extraction that boosts recognition accuracy and computational efficiency.
 
 **Features**
+
 * **Dynamic Receptive Field Generation**: Adapts the receptive field to the temporal length of input data.
 * **Multi-Scale Temporal Feature Extraction**: Captures both short-term and long-term dependencies.
 * **State-of-the-Art Performance**: Achieves top accuracy on multiple HAR datasets.
 
 **Results**
+
 We evaluate AdaMaskNet on four popular HAR datasets, achieving state-of-the-art accuracy:
 
 * UCI-HAR: 97.42%
