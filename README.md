@@ -31,9 +31,11 @@ These results highlight the superiority of AdaMaskNet in recognizing human activ
 To be updated once the code is organized and released.
 
 **Model Architecture**
+
 ![arch](https://github.com/user-attachments/assets/bc13f0af-bef8-4d17-a262-cae0a412b059)
 
 **Citation**
+
 @article{AdaMaskNet,
   title={AdaMaskNet: Enhancing Activity Recognition in Sensor Data with Adaptive Multi-scale Masked Kernels},
   author={Jiamei Tang, MengKun Li, and Chao Dong},
@@ -43,10 +45,12 @@ To be updated once the code is organized and released.
 }
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 **Contact**
+
 For questions or discussions, please contact:
 
 Jiamei Tang
