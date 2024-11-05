@@ -40,7 +40,7 @@ To be updated once the code is organized and released.
 **Citation**
 
 @article{AdaMaskNet,
-  title={AdaMaskNet: Enhancing Activity Recognition in Sensor Data with Adaptive Multi-scale Masked Kernels},
+  title={AdaMaskNet: Adaptive Multi-scale Masked Kernels for Enhanced Sensor-based Human Activity Recognition},
   journal={Journal Name},
   year={2024},
   url={https://github.com/Catherine618/AdaMaskNet}
